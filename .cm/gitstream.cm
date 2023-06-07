@@ -31,10 +31,6 @@ automations:
 calc:
   etr: {{ branch | estimatedReviewTime }}
 # -*- mode: yaml -*-
-
-manifest:
-  version: 1.0
-
 automations:
   percent_new_code:
     if:
