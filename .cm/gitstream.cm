@@ -21,10 +21,6 @@ colors:
   red: 'b60205'
   yellow: 'fbca04'
   green: '0e8a16'
-# -*- mode: yaml -*-
-
-manifest:
-  version: 1.0
 
 automations:
   percent_new_code:
